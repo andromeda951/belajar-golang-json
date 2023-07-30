@@ -1,0 +1,24 @@
+{
+  "FirstName": "Eko",
+  "MiddleName": "",
+  "LastName": "",
+  "Age": 0,
+  "Maried": false,
+  "Hobbies": [
+    "Gaming",
+    "Reading",
+    "Coding"
+  ],
+  "Addresses": [
+    {
+      "Street": "Jalan a",
+      "Country": "Indonesia",
+      "PostalCode": 12345
+    },
+    {
+      "Street": "Jalan b",
+      "Country": "Indonesia",
+      "PostalCode": 56789
+    }
+  ]
+}
